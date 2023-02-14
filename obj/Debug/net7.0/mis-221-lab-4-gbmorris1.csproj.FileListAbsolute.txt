@@ -1,0 +1,15 @@
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.csproj.AssemblyReference.cache
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.AssemblyInfoInputs.cache
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.AssemblyInfo.cs
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.csproj.CoreCompileInputs.cache
+/Users/gmorris/mis-221-lab-4-gbmorris1/bin/Debug/net7.0/mis-221-lab-4-gbmorris1
+/Users/gmorris/mis-221-lab-4-gbmorris1/bin/Debug/net7.0/mis-221-lab-4-gbmorris1.deps.json
+/Users/gmorris/mis-221-lab-4-gbmorris1/bin/Debug/net7.0/mis-221-lab-4-gbmorris1.runtimeconfig.json
+/Users/gmorris/mis-221-lab-4-gbmorris1/bin/Debug/net7.0/mis-221-lab-4-gbmorris1.dll
+/Users/gmorris/mis-221-lab-4-gbmorris1/bin/Debug/net7.0/mis-221-lab-4-gbmorris1.pdb
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.dll
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/refint/mis-221-lab-4-gbmorris1.dll
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.pdb
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/mis-221-lab-4-gbmorris1.genruntimeconfig.cache
+/Users/gmorris/mis-221-lab-4-gbmorris1/obj/Debug/net7.0/ref/mis-221-lab-4-gbmorris1.dll
